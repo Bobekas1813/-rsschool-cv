@@ -2,7 +2,7 @@
 
 ### Junior Frontend Developer
 
-******************************
+***
 
 #### Contact information:
  
@@ -12,13 +12,12 @@
    
   **Telegram**: @bobekas
 
-  *********************************
-
-  ## Briefly About Myself
+  ***
+## Briefly About Myself
 
   In the autumn of 2022, I decided to change my life. I started to learn the profession of a frontend developer. At the same time, I started learning English. I am sure that my perseverance and dedication will bring the desired result. 
 
--------------------------------------------------
+---
 
 ### My hard skills:
   
@@ -29,19 +28,18 @@
   * Figma (for developer)
   * VS Code
   
-  ### My soft skills:
+### My soft skills:
 
   * Self-discipline
   * Ability to achieve goals
   * Ability to get along with others
 
-  --------------------------------------------------
-
-  ### Code example:
+---
+### Code example:
    
    Level 5  task from  Codewars.
 
-   ##### Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. For example:
+##### Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. For example:
 
 * url = 'http://github.com/carbonfive/raygun' -> domain name = "github"
 * url = "http://www.zombie-bites.com"         -> domain name = "zombie-bites"
